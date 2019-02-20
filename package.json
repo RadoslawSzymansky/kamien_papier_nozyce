@@ -1,0 +1,11 @@
+{
+  "name": "kamien_papier_nozyce",
+  "version": "1.0.0",
+  "description": "Gra",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ok",
+  "license": "ISC"
+}
